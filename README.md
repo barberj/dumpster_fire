@@ -3,8 +3,10 @@
 Spike on phoenix, docker and heroku
 
 ## History
+```
 kiex use 1.7.3
 mix phx.new dumpster_fire
+```
 
 To start your Phoenix server:
 
